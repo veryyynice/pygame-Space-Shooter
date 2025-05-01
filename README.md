@@ -2,10 +2,7 @@
 
 A dynamic space shooter game where you defend the cosmos from waves of enemies!
 
-![Cosmic Defender Game Screenshot]
-[logo]
-[logo]: [https://github.com/veryyynice/pygame-Space-Shooter/blob/main/screenshot.png] "Logo Title Text 2"
-
+![alt text](https://raw.githubusercontent.com/veryyynice/pygame-Space-Shooter/master/screenshot.png "Logo Title Text 1")
 ## 🚀 Features
 
 - **Engaging Gameplay**: Navigate through space, shoot enemies, and rack up your score
